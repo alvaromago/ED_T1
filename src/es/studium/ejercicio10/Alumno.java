@@ -14,7 +14,7 @@ public class Alumno
 		apellido = "";
 		edad = 0;
 		haPagado = true;
-		aula = new Aula(); //Hola
+		aula = new Aula();
 	}
 
 	public Alumno(String nombre, String apellido, int edad, Boolean haPagado, Aula aula)
